@@ -435,7 +435,6 @@ a {
 
 .media__title {
   margin-top: 0;
-  color: #fff;
   font-size: 1.8rem;
 }
 
@@ -523,6 +522,7 @@ a {
 /* Testimonials */
 
 .testimonial {
+  margin: 4rem;
   padding: 3rem 5rem;
 }
 
